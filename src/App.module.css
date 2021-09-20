@@ -1,0 +1,14 @@
+
+
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.header .searchbox{
+    margin-left: 40%;
+    min-height: 40px;
+    
+    border: 1px solid;
+    width: 300px;
+}

@@ -1,0 +1,54 @@
+.name
+{
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  font-size: 18px;
+
+
+  
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+div.name:hover{
+    cursor: pointer;
+}
+.author
+{
+  color:#565959;
+}
+.product
+{
+  width: 23%;
+  box-sizing: border-box;
+  padding: 30px;
+
+}
+.price{
+    font-size: 25px;
+    font-weight: bolder;
+    margin:10px 0;
+}
+.price .original_price{
+    font-size: 18px;
+    font-weight: normal;
+    text-decoration: line-through;
+}
+
+.price span{
+    font-weight: normal;
+    font-size: 18px;
+    margin-left: 3px;
+}
+
+.datetime{
+ font-weight: bolder;
+}
+.img{
+    width: 200px;
+    height: 200px;
+}

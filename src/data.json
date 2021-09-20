@@ -1,0 +1,32 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "name": "Roku Express 4K+ 2021 | Streaming Media Player HD/4K/HDR with Smooth Wireless Streaming and Roku Voice Remote with TV Controls, Includes Premium HDMI Cable",
+        "seller": "Seagate",
+        "type": "Roku",
+        "original_price": 62.99,
+        "promotion_price":0,
+        "shipping":33.58,
+        "rating": 4.5,
+        "image": "2.png"
+        
+      },
+      {
+        "id": 2,
+        "name": "Seagate Portable 2TB External Hard Drive Portable HDD – USB 3.0 for PC",
+        "seller": "Richard Powers",
+        "type": "Roku",
+        "original_price": 39.99,
+        "promotion_price":29.99,
+        "shipping":33.70,
+        "rating": 4.5,
+        "image": "1.png"
+        
+      }
+
+      
+
+
+]
+}
